@@ -8,10 +8,10 @@ As a part-time employee at one of the retail stores, I am aware of how various f
 ### Objective 2: is Implementing different machine learning models to forecast sales with higher accuracy.
 
 ### About the Rossman Store Dataset:
-• The dataset was obtained from Kaggle.com. Link for the Kaggle Dataset https://www.kaggle.com/c/rossmann-store-sales
-• The dataset contains historical sales information for 1,115 Rossmann locations. It has three different datasets: training dataset, Store dataset and Test dataset.
-• Training dataset: which contains information about whether that particular store was open or not, how much sales were made on that particular day of that particular month, and how many customers came to that particular store.
-• Store dataset: which contains information about the type of store in a different location, what assortment is in that store, whether the promotion is applied in that store, and whether any competition exists.
-• Test dataset: Test datasets contain the same variables as the training dataset but without the Sales variable, but they are used to validate our model's accuracy. 
-• This dataset was part of a $35,000 Feature Prediction Competition on Kaggle.com.
+    • The dataset was obtained from Kaggle.com. Link for the Kaggle Dataset https://www.kaggle.com/c/rossmann-store-sales
+    • The dataset contains historical sales information for 1,115 Rossmann locations. It has three different datasets: training dataset, Store dataset and Test dataset.
+    • Training dataset: which contains information about whether that particular store was open or not, how much sales were made on that particular day of that particular month, and how many customers came to that particular store.
+    • Store dataset: which contains information about the type of store in a different location, what assortment is in that store, whether the promotion is applied in that store, and whether any competition exists.
+    • Test dataset: Test datasets contain the same variables as the training dataset but without the Sales variable, but they are used to validate our model's accuracy. 
+    • This dataset was part of a $35,000 Feature Prediction Competition on Kaggle.com.
 
